@@ -1,0 +1,19 @@
+package main
+
+import (
+	"adventofcode2021/utils/files"
+)
+
+func main() {
+    // x is day number, \n is delimiter
+	input := files.ReadFile(x, "\n")
+	println(solvePartX(input))
+}
+
+func solvePartX(input []string) int {
+    result := 0
+
+
+
+    return result
+}
